@@ -1,0 +1,16 @@
+{
+  "baseUrl": "http://localhost:8081",
+  "baseUrlMovieSearch": "http://localhost:8082",
+  "baseUrlCart": "http://localhost:8083",
+  "idm": {
+    "login": "/login",
+    "register": "/register",
+    "movieSearch": "/movie/search",
+    "cartInsert": "/cart/insert",
+    "cartUpdate": "/cart/update",
+    "cartRetrieve": "/cart/retrieve",
+    "orderHistory": "/order/list",
+    "checkout": "/order/payment",
+    "orderComplete": "/order/complete"
+  }
+}
